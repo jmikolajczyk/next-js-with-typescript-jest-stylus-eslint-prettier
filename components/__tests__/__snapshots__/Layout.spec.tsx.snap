@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <footer>
+    <hr />
+    <span>
+      I'm here to stay (Footer)
+    </span>
+  </footer>
+</div>
+`;
